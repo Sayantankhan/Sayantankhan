@@ -32,6 +32,13 @@
 <br />
 <br />
 
+## 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
 [self]:https://github.com/Sayantankhan
 [medium]: https://medium.com/@iamstk14
 [instagram]: https://www.instagram.com/sayantan_khan/
