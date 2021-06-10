@@ -35,6 +35,10 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [API Management Tool: manage and publish your APIs  easily](https://medium.com/@iamstk14/api-management-tool-manage-and-publish-your-apis-easily-560621cf8d44?source=rss-bf10659efeba------2)
+- [Docker : let’s ship your application](https://medium.com/@iamstk14/docker-lets-ship-your-application-b86c794bc907?source=rss-bf10659efeba------2)
+- [Microservices and it’s Architecture](https://medium.com/@iamstk14/microservices-and-its-architecture-ec7de96f8f73?source=rss-bf10659efeba------2)
+- [OAuth 2.0 protocol](https://medium.com/@iamstk14/oauth-2-0-protocol-bdd1096db9f1?source=rss-bf10659efeba------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
