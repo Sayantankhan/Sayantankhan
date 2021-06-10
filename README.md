@@ -1,6 +1,12 @@
 ### Hi there, I'm Sayantan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 ![](https://komarev.com/ghpvc/?username=Sayantankhan)
+
+## I'm a Software Developer, and Tech Enthusiast!!
+
+- 🌱 I’m currently learning everything 😂
+- 👯 I’m looking to collaborate with others
+
  ## Connect with me:
 
 [<img align="left" alt="skhan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
@@ -42,6 +48,8 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 [self]:https://github.com/Sayantankhan
 [medium]: https://medium.com/@iamstk14
