@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Sayantankhan)
 
-## I'm a Software Developer, and Tech Enthusiast!!
+## I'm a passionate Software Engineer and Tech Enthusiast!!
 
 - 🌱 I’m currently learning everything 😂
 - 👯 I’m looking to collaborate with others
