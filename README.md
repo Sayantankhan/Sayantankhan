@@ -51,14 +51,13 @@
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-## Github Stats
+<!-- ## Github Stat s-->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!--<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sayantankhan&show_icons=true&theme=radical&include_all_commits=true&count_private=true&show_icons=true" />
-</a>
+</a> -->
 
-
----
+--- 
 
 [self]:https://github.com/Sayantankhan
 [medium]: https://medium.com/@iamstk14
