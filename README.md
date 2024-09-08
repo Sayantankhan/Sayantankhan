@@ -47,7 +47,7 @@
 - [OAuth 2.0 protocol](https://medium.com/@iamstk14/oauth-2-0-protocol-bdd1096db9f1?source=rss-bf10659efeba------2)
 <!-- BLOG-POST-LIST:END -->
 
----
+
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
@@ -57,7 +57,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sayantankhan&show_icons=true&theme=radical&include_all_commits=true&count_private=true&show_icons=true" />
 </a> -->
 
---- 
 
 [self]:https://github.com/Sayantankhan
 [medium]: https://medium.com/@iamstk14
